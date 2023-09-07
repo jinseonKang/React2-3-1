@@ -18,7 +18,7 @@
 > 2. next.js 앱에서 기본 언어를 타입스크립트로 지정하는 방법
 >
 > - 프로젝트의 최상위 디렉터리 안에 tsconfig.json이라는 타입스크립트 설정 파일만 만들면 된다.
-> - 그리고 npm run dev 명력을 실행하면 된다.
+> - 그리고 npm run dev 명령을 실행하면 된다.
 >
 > 3. next.js가 바벨의 @babel/plugin-transform-typescript를 사용해서 설정파일을 관리하기 때문에 주의사항을 숙지해야 한다.
 
