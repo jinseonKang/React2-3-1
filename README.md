@@ -41,8 +41,8 @@
 
 > <img width="1440" alt="스크린샷 2023-10-05 오후 3 52 23" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/123f5442-eb71-4fa0-9553-d9b6fd6dac05">
 
->
-
+> React Router, Reach Router, Wouter와 같은 라이브러리를 사용하면 클라이언트에서의 라우팅만 구현할 수 있다.
+> 모든 페이지가 클라이언트에서만 만들어지고 렌더링되는 것이다.
 
 # 4주차 (2023.09.21)
 
