@@ -15,9 +15,10 @@
 
 ### 클라이언트에서의 내비게이션
 
->
+> <img width="1440" alt="스크린샷 2023-10-12 오후 2 41 19" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/183ca709-3e50-45de-a31c-9140c0d4ea2b">
 
->
+> <img width="1440" alt="스크린샷 2023-10-12 오후 3 05 00" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/516616e3-83e2-423f-8547-196f99eae250">
+
 
 # 5주차 (2023.10.05)
 
