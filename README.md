@@ -4,7 +4,7 @@
 
 ### 페이지에서 경로 매개변수 사용하기
 
->
+> <img width="1440" alt="스크린샷 2023-10-12 오후 2 41 19" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/c0fbf4df-73db-454e-b762-b796468960a4">
 
 > Next.js에서는 리액트 훅 덕분에 쉽게 경로 매개변수 값을 가져올 수 있다.
 
