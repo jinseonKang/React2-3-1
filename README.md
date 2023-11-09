@@ -12,7 +12,8 @@
 
 ### 서버에서 REST API 사용하기
 
->
+> <img width="1440" alt="스크린샷 2023-11-09 오후 2 42 32" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/a9317e34-e3e6-4ac8-8d7a-d6df570a49a4">
+
 
 # 8주차 (2023.11.02)
 
