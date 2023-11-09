@@ -14,6 +14,9 @@
 
 > <img width="1440" alt="스크린샷 2023-11-09 오후 2 42 32" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/a9317e34-e3e6-4ac8-8d7a-d6df570a49a4">
 
+### 클라이언트에서 REST API 사용하기
+
+> Next.js에서는 내장 getServerSideProps나 getStaticProps 함수 내에서 REST API를 호출하면 서버가 데이터를 가져오지만 그 외의 컴포넌트 내에서 데이터를 불러오는 작업은 클라이언트가 실행한다.
 
 # 8주차 (2023.11.02)
 
