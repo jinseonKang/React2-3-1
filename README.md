@@ -4,6 +4,8 @@
 
 ### Redux 추가하기
 > <img width="1440" alt="스크린샷 2023-11-30 오후 3 15 30" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/d0d52f5f-f518-43a7-a073-2b6b12036dca">
+> <img width="1440" alt="스크린샷 2023-11-30 오후 3 18 27" src="https://github.com/jinseonKang/React2-3-1/assets/126742685/7aba2c89-b4f2-49e2-9bca-70344470e18a">
+
 
 
 # 11주차 (2023.11.23)
